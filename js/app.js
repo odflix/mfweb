@@ -35,7 +35,7 @@ let servicesInfo=[
     {
         "imgUrl": "https://img.icons8.com/nolan/64/pen.png",
         "heading": "Content Writing",
-        "description" : "Content that moves people, Yes please. We make content that makes you stand out and presence known.Discuss your next project for the best engaging writings.",
+        "description" : "Content that moves people, Yes please. We make content that makes you stand out and your presence known. Discuss your next project for the best engaging writings.",
         "linkText": "Get Content Writer →",
         "id": "cntwrt"
 
@@ -43,7 +43,7 @@ let servicesInfo=[
     {
         "imgUrl": "https://img.icons8.com/nolan/64/commercial.png",
         "heading": "Digital Marketing",
-        "description" : "Looking someone to help you advertise and follow-up your business? We produce strategies and give results which have max reach to your business and help you maintain your social media.",
+        "description" : "Looking for someone to help you advertise and follow-up your business? We produce strategies and give results which have max reach to your business and help you maintain your social media.",
         "linkText": "Market your business online →",
         "id": "dimark"
     }
